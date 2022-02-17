@@ -16,7 +16,7 @@ import com.jpa.demo.service.UserService;
 
 import java.util.List; 
 @Controller
-@RestController
+//@RestController
 public class UserController {
 	
 	@Autowired
